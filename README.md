@@ -15,7 +15,7 @@ jakas bariera co blokujebloki na respie (?.?)
 
 semiclip (?.?)
 
-case(prawie skonczone) (?.?)
+case (99.9%)
 
 limit fps(prawdopodobnie 150) (?.?)
 
