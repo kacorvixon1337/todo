@@ -1,7 +1,8 @@
 # todo
-¯\_(ツ)_/¯
+ ¯\_(ツ)_/¯
+umiejetnosci broni (100%)
 
-zombie klasy (?.?)
+zombie klasy (1.0)%
 
 sklep (?.?)
 
@@ -31,4 +32,4 @@ klany (?.?)
 
 owner sie nie zmienia po ruszeniu bloku przez admina (?.?)
 
-umiejetnosci broni (99.9%)
+nieskonczone bloki (?.?)
