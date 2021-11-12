@@ -2,7 +2,7 @@
  ¯\_(ツ)_/¯
 umiejetnosci broni (100%)
 
-zombie klasy (1.0)%
+zombie klasy (87.0)%
 
 sklep (?.?)
 
