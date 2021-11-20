@@ -1,11 +1,9 @@
 # todo
  ¯\_(ツ)_/¯
 umiejetnosci broni (100%)
-
-zombie klasy (87.0)%
-
-sklep (?.?)
-
+misje jakies (54.0%)
+zombie klasy (99.0%)
+sklep (65.0%)
 vip & svip (?.?)
 
 pakiety?? (?.?)
@@ -23,13 +21,8 @@ limit fps(prawdopodobnie 150) (?.?)
 /daj (?.?)
 
 menu (?.?)
-
 timeleft w hudzie (?.?)
-
-misje jakies (?.?)
-
 klany (?.?)
-
 owner sie nie zmienia po ruszeniu bloku przez admina (?.?)
-
 nieskonczone bloki (?.?)
+boss (?.?)
