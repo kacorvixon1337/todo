@@ -1,5 +1,6 @@
 # todo
- ¯\_(ツ)_/¯
+
+¯\_(ツ)_/¯
 umiejetnosci broni (100%)
 misje jakies (54.0%)
 zombie klasy (99.0%)
