@@ -4,7 +4,7 @@ umiejetnosci broni (100%)
 
 system rund (100%)
 
-misje jakies (54.0%)
+misje jakies (100.0%) [do testowania sa jeszcze xd]
 
 zombie klasy (100.0%)
 
